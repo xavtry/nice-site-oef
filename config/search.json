@@ -1,0 +1,9 @@
+{
+  "_comment": "Fallback list used on static hosts without the Orbit server. Only these hosts may be shown inside the built-in browser frame; everything else opens in a new tab.",
+  "approvedHosts": ["wikipedia.org"],
+  "quickLinks": [
+    { "label": "Wikipedia", "url": "https://en.wikipedia.org/" },
+    { "label": "MDN Web Docs", "url": "https://developer.mozilla.org/" },
+    { "label": "Internet Archive", "url": "https://archive.org/" }
+  ]
+}
